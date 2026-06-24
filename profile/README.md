@@ -27,7 +27,7 @@ Non-custodial by design — no platform escrow, no middleman holding funds.
 ### Security Status
 DevSwap Protocol's path to mainnet is gated by **independent verification, not by a token sale**.
 The seven Security Gates documented in [`devswap-docs/SECURITY-AUDIT.md`](https://github.com/DevSwap-org/devswap-docs/blob/main/SECURITY-AUDIT.md) — four automated (Mythril
-symbolic execution, Slither pattern analysis, 100% test coverage, 79+ tests including mainnet-fork)
+symbolic execution, Slither pattern analysis, high test coverage and a comprehensive Foundry suite (unit + fuzz + invariant + mainnet-fork))
 and three manual (independent third-party audit, multisig 3-of-5 + timelock, qualified-counsel
 review) — separate the testnet protocol from a live mainnet launch.
 
