@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🔒 Report a security vulnerability (private)
+    url: https://github.com/DevSwap-org/.github/security/advisories/new
+    about: Report security issues privately — never open a public issue. See SECURITY.md.
+  - name: 💬 Discord community
+    url: https://discord.gg/FJE2teMnFd
+    about: Questions, discussion, and community support.
+  - name: 📣 Telegram
+    url: https://t.me/DevSwapProtocol
+    about: Announcements and community chat.
+  - name: 📚 Documentation & protocol overview
+    url: https://devswap.pro
+    about: Read the docs before filing an issue.
