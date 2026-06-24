@@ -43,6 +43,13 @@ Solidity 0.8.24 (Foundry) · OpenZeppelin v5 (vendored) · Next.js on **Cloudfla
 - [**devswap-docs**](https://github.com/DevSwap-org/devswap-docs) — public documentation (README, SECURITY-AUDIT, GOVERNANCE).
 - [**DevSwap**](https://github.com/DevSwap-org/DevSwap) — the dApp source (private).
 
+
+### Community & links
+[![Website](https://img.shields.io/badge/Website-devswap.pro-B22A2A?style=flat)](https://devswap.pro)
+[![X](https://img.shields.io/badge/X-@DevSwapProtocol-000000?style=flat&logo=x)](https://x.com/DevSwapProtocol)
+[![Telegram](https://img.shields.io/badge/Telegram-DevSwapProtocol-26A5E4?style=flat&logo=telegram)](https://t.me/DevSwapProtocol)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat&logo=discord)](https://discord.gg/FJE2teMnFd)
+
 ### Reporting security issues
 Email **security@devswap.pro** — see [SECURITY.md](https://github.com/DevSwap-org/.github/blob/main/SECURITY.md) for the responsible-disclosure policy.
 
